@@ -17,6 +17,8 @@ typedef uint8_t bool;
 #define true 1
 #define false 0
 
+#define WRITE_BACK 1
+
 uint32_t tag_width;
 
 // uint32_t offset = 3;
